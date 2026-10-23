@@ -1,0 +1,233 @@
+#EXTM3U
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sports",NASCAR Channel 24/7 (on Tubi)
+https://live-manifest.production-public.tubi.io/live/3404f25c-24bd-4ced-9d72-f2b4d5f63c57/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",CTV News (on Tubi)
+https://live-manifest.production-public.tubi.io/live/a52ec36f-e094-4772-80ab-27c4c92b0f88/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Reality",Court TV (on Tubi)
+https://tubi.apollo.adrise.io/live/court-tv-ypw1w3.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sports",UEFA TV (on Tubi)
+https://live-manifest.production-public.tubi.io/live/d846008d-b608-4ddf-931c-48e9b60bf6c5/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sports",beIN Sports Xtra (on Tubi)
+https://live-manifest.production-public.tubi.io/live/2fd3d156-b63c-47c8-9d04-5961ddd9cee8/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",Dance Moms 24/7 (on Pluto)
+https://ipv4.pluto.tv/api/tn/video/playout/v2/stitch/hls/channel/6540fec1770cf1000866b65b/3321280/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sports",The NBA Channel (on Tubi)
+https://live-manifest.production-public.tubi.io/live/553b8d5e-fd2a-4a61-bdfa-73b34c299d75/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sports",NHL (on Tubi)
+https://live-manifest.production-public.tubi.io/live/2cfb4368-6c7e-4075-bc1f-69f7141a8012/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sports",UFC Unfiltered (on Tubi)
+https://live-manifest.production-public.tubi.io/live/dd6d627f-f0f8-48bb-b627-7f7c4fceec37/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sports",PGA Tour (on Tubi)
+https://live-manifest.production-public.tubi.io/live/5efa4318-2569-4979-97b9-ad984427ba37/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sports",Watch AEW (on Tubi)
+https://live-manifest.production-public.tubi.io/live/512cbe42-c22e-40c8-90e3-7d62684f51a7/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sports",DAZN TV (on Tubi)
+https://live-manifest.production-public.tubi.io/live/a6d1cbf9-8f14-4a1d-ad12-622df6896d2b/playlist.m3u8
+#EXTINF:-1, tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News (USNow)
+#EXTVLCOPT:http-referrer=https://usnewson.com/
+https://p11.usnlive.com/stream/foxnews.m3u8
+#EXTINF:-1, tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/MSNBC_logo_%282000-2006%29.png" group-title="News",MSNBC/MSNOW (USNOW)
+#EXTVLCOPT:http-referrer=https://usnewson.com/
+https://p11.usnlive.com/stream/msnbc.m3u8
+#EXTINF:-1, tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="News",CNN (USNOW)
+#EXTVLCOPT:http-referrer=https://usnewson.com/
+https://p3.usnlive.com/stream/cnn.m3u8
+#EXTINF:-1, tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Wikimedia-logo.png/500px-Wikimedia-logo.png" group-title="News",One America News Network | OANN (USNOW)
+#EXTVLCOPT:http-referrer=https://usnewson.com/
+https://p6.usnlive.com/stream/oann.m3u8
+#EXTINF:-1, tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Fox_Weather_logo_%282%29.png" group-title="News",FOX Weather Channel (USNOW)
+#EXTVLCOPT:http-referrer=https://usnewson.com/
+https://247wlive.foxweather.com/stream/index.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News",FOX News Channel
+http://104.255.88.155/foxnews/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News",FOX Weather Channel
+https://247wlive.foxweather.com/stream/index_768x432.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News",FOX News Channel
+http://104.255.88.155/foxnews/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News",FOX News Channel [TVPass.org]
+https://tvpass.org/live/FoxNewsChannel/sd
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News",FOX News Channel [No Sound]
+https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary_400.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Fox_News_Radio_logo.png" group-title="News",FOX News Radio
+https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/MS_NOW_logo.svg" group-title="News",MSNOW
+http://104.255.88.155/msnbc/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="News",CNN
+http://104.255.88.155/cnn/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="News",OAN
+https://a-cdn.klowdtv.com/live1/oan_720p/chunks.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/archive/8/85/20220707002544%21Newsmax2021.svg" group-title="News",NewsMax
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+#EXTINF:0 tvg-country="CANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Citytv1.png" group-title="News",CityTV Toronto
+https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/Video-2Mbps.m3u8
+#EXTINF:0 tvg-country="CANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Citytv1.png" group-title="News",CityTV Edmonton
+https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
+#EXTINF:0 tvg-country="CANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Citytv1.png" group-title="News",CityTV Calgary
+https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
+#EXTINF:0 tvg-country="CANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Citytv1.png" group-title="News",CityTV Vancouver
+https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8
+#EXTINF:0 tvg-country="CANADA" tvg-logo="" group-title="News",CowboyTV
+https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/cb563a196570678f84cf3d78d2f962c0a65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3d56aea173e7d137c8498ab6baecc4152edc70d2a2bb37a1f51ff1e6389670674d6f15559d165fb294757ec5b365437dae85cb0775ac1d5178a7e7f8ab08c676f75475e9d0b5de0f357f6f8e05e40d24b9b874d1cd63103b1a07ff3ef1aec898d07f616ee10851cff22c1b1f2286d7d5c518365c1154b3e017c97817d92bb25dcb8b4484951f5b5246438c8ac81ea467ca74a464ef1fccac50a97c8581b47f3081ab40e8c5d81318629db61201cdbc2dfd9ee613b5f95d15e6322a3afc5e0981d609a34bdca61ba0212d424e9f798ef4da198e7a2acf0ce2624897ab7bb2697bd6a1c77f49e579493a68cd540ec20ac08c5ddfd94314301364a52c615959363df26ca6be8e027610d1d0afdc115f38fd70864390f9ed60a8f5309af81dad787406b83203c5feb6bd614573c9d643c2db57cb9bc357e8c20059d7a6caf007bd03089d246c2aed5e1092ca69e96128d08c1814a83a64cf9177933659efd365649407caa9f4004227cc54afc9387a140000ee8f8daed82341c022a1c46039be88526c26ea1d9ead26c35838dc0459f29473d1bbf2c4492e8478f/69/848x480_1686360/index.m3u8
+#EXTINF:0 tvg-country="CANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/CBC_logo.svg/330px-CBC_logo.svg.png" group-title="News",CBC Toronto, Ontario
+https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
+#EXTINF:0 tvg-country="CANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/CBC_logo.svg/330px-CBC_logo.svg.png" group-title="News",CBC North York, Toronto Ontario
+https://cbcrclinear-tor.akamaized.net/hls/live/2042766/CBCRCLINEAR_TOR_12/master5.m3u8
+#EXTINF:0 tvg-country="CANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/CBC_logo.svg/330px-CBC_logo.svg.png" group-title="News",CBC Nova Scotia
+https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8
+#EXTINF:0 tvg-country="CANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/CBC_logo.svg/330px-CBC_logo.svg.png" group-title="News",CBC Ottawa, Ontario
+https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8
+#EXTINF:0 tvg-country="CANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/CBC_logo.svg/330px-CBC_logo.svg.png" group-title="News",CBC Calgary, Alberta
+https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8
+#EXTINF:0 tvg-country="CANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/CBC_logo.svg/330px-CBC_logo.svg.png" group-title="News",CBC Edmonton, Alberta
+https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8
+#EXTINF:0 tvg-country="CANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/CBC_logo.svg/330px-CBC_logo.svg.png" group-title="News",CBC Manitoba
+https://cbcrclinear-tor.akamaized.net/hls/live/2042767/CBCRCLINEAR_TOR_13/master5.m3u8
+#EXTINF:0 tvg-country="CANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/CBC_logo.svg/330px-CBC_logo.svg.png" group-title="News",CBC Montreal, Quebec (French)
+https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
+#EXTINF:0 tvg-country="CANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/CBC_logo.svg/330px-CBC_logo.svg.png" group-title="News",CBC New Brunswick
+https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8
+#EXTINF:0 tvg-country="CANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/CBC_logo.svg/330px-CBC_logo.svg.png" group-title="News",CBC Newfoundland and Labrador
+https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8
+#EXTINF:0 tvg-country="CANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/CBC_logo.svg/330px-CBC_logo.svg.png" group-title="News",CBC Prince Edward Island
+https://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8
+#EXTINF:0 tvg-country="CANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/CBC_logo.svg/330px-CBC_logo.svg.png" group-title="News",CBC Saskatchewan, Alberta
+https://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master5.m3u8
+#EXTINF:0 tvg-country="CANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/CBC_logo.svg/330px-CBC_logo.svg.png" group-title="News",CBC Vancouver, BC
+https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
+#EXTINF:0 tvg-country="CANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/CBC_logo.svg/330px-CBC_logo.svg.png" group-title="News",CBC Windsor, Ontario
+https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5.m3u8
+#EXTINF:0 tvg-country="CANADA" tvg-logo="" group-title="News",CHCO TV
+https//temp4.isilive.ca/live/CHCOTV/live/index.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FIFA%2B.svg/330px-FIFA%2B.svg.png" group-title="Sports",FIFA+ US
+https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/archive/3/37/20210626150935%21Hallmark_logo.svg" group-title="Entertainment",Hallmark
+http://104.255.88.155/hallmark/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Bravo_logo_2002.png" group-title="Entertainment",Bravo
+http://104.255.88.155/bravo/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Bravo_logo_2002.png" group-title="Entertainment",Bravo 2
+http://41.205.93.154/BRAVO/index.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/archive/e/e0/20161012143108%21Oprah_Winfrey_Network.png" group-title="Entertainment",OWN [Oprah Winfrey Network]
+http://104.255.88.155/own/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Paramount_Network_%282024%29.png/330px-Paramount_Network_%282024%29.png" group-title="Entertainment",Paramount Network
+http://104.255.88.155/paramount/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/archive/c/c9/20210817220404%21Syfy.png" group-title="Entertainment",SyFy
+http://104.255.88.155/syfy/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/archive/c/c9/20210817220404%21Syfy.png" group-title="Entertainment",SyFy (French)
+http://41.205.93.154/SYFY/index.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="Entertainment",NickToons
+http://fl51.moveonjoy.com/NICKTOONS/index.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/AMC_logo_1.png/330px-AMC_logo_1.png" group-title="Entertainment",AMC
+http://104.255.88.155/amc/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/AMC_logo_1.png/330px-AMC_logo_1.png" group-title="Entertainment",AMC
+http://104.255.88.155/amc/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/AnimalPlanet_HD_PrimaryLockup2_RGB_Wiki_2.svg/330px-AnimalPlanet_HD_PrimaryLockup2_RGB_Wiki_2.svg.png" group-title="Entertainment",Animal Planet
+http://104.255.88.155/animalplanet/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Starz_2016.png/330px-Starz_2016.png" group-title="Entertainment",Starz
+http://104.255.88.155/starz/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Sundance_Channel_Blue.svg/330px-Sundance_Channel_Blue.svg.png" group-title="Entertainment",Sundance
+http://104.255.88.155/sundance/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/TBS.png" group-title="Entertainment",TBS
+http://104.255.88.155/tbs/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/The_Movie_Channel.svg/330px-The_Movie_Channel.svg.png" group-title="Entertainment",The Movie Channel
+http://104.255.88.155/tmc/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/The_Movie_Channel.svg/330px-The_Movie_Channel.svg.png" group-title="Entertainment",The Movie Channel (French)
+http://41.205.93.154/TMC/index.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Tnt_tv_logo_old.svg/250px-Tnt_tv_logo_old.svg.png" group-title="Entertainment",TNT
+http://104.255.88.155/tnt/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Lifetime_tv_logo.png" group-title="Entertainment",Lifetime
+http://41.205.93.154/LIFETIME/index.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/330px-Fox_Business.svg.png" group-title="News",FOX Business
+http://41.205.93.154/FOXBUSINESS/index.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/500px-American_Broadcasting_Company_Logo.svg.png" group-title="News",ABC
+http://41.205.93.154/ABC/index.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/330px-CNBC_logo.svg.png" group-title="News",CNBC
+http://41.205.93.154/CNBC/index.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Discovery_Networks_logo_%283%29.svg/330px-Discovery_Networks_logo_%283%29.svg.png" group-title="Entertainment",Discovery (French)
+http://41.205.93.154/DISCOVERY/index.m3u8
+#EXTINF:0 tvg-country="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/330px-BBC_Logo_2021.svg.png" group-title="Entertainment",BBC Three 
+http://41.205.93.154/BBCTHREE/index.m3u8
+#EXTINF:0 tvg-country="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/330px-BBC_Logo_2021.svg.png" group-title="Entertainment",BBC Two 
+http://41.205.93.154/BBCTWO/index.m3u8
+#EXTINF:0 tvg-country="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/330px-BBC_Logo_2021.svg.png" group-title="Entertainment",BBC One 
+http://41.205.93.154/BBCONE/index.m3u8
+#EXTINF:0 tvg-country="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/NBC_logo_2022.svg/330px-NBC_logo_2022.svg.png" group-title="News",NBC
+http://41.205.93.154/NBC/index.m3u8
+#EXTINF:0 tvg-country="UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/BBC_World_News_2022.svg/330px-BBC_World_News_2022.svg.png" group-title="News",BBC World News
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Discovery_Networks_logo_%283%29.svg/330px-Discovery_Networks_logo_%283%29.svg.png" group-title="Entertainment",Discovery" group-title="Entertainment",BET
+http://fl51.moveonjoy.com/BET/index.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bloomberg_logo.svg/330px-Bloomberg_logo.svg.png" group-title="News",Bloomberg
+https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bloomberg_logo.svg/330px-Bloomberg_logo.svg.png" group-title="News",Bloomberg HD
+https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://storage.googleapis.com/btvwp-uploads/2015/04/Bounce_TVOurWay_logo_general_market.png" group-title="News",Bounce TV
+http://fl51.moveonjoy.com/BOUNCE_TV/index.m3u8
+#EXTINF:0 tvg-country="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Coat_of_arms_of_British_Columbia.svg/500px-Coat_of_arms_of_British_Columbia.svg.png" group-title="News",Legislative Assembly of British Columbia
+https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-house-httpo/HouseP.smil/playlist.m3u8
+#EXTINF:0 tvg-country="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Coat_of_arms_of_British_Columbia.svg/500px-Coat_of_arms_of_British_Columbia.svg.png" group-title="News",Legislative Assembly of British Columbia - Committee A
+https://cdn3.wowza.com/5/YldIU1hsTlljRWZF/hbs-prim-dougfir-httpo/DougFirP.smil/playlist.m3u8
+#EXTINF:0 tvg-country="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Coat_of_Arms_of_Ontario.png" group-title="News",Legislative Assembly of Ontario
+https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
+#EXTINF:0 tvg-country="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Knowledge_network_logo.svg/330px-Knowledge_network_logo.svg.png" group-title="Entertainment",Knowledge Network
+https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
+#EXTINF:0 tvg-country="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Logotipo_de_NTV.svg/330px-Logotipo_de_NTV.svg.png" group-title="Entertainment",Newfoundland TV
+https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
+#EXTINF:0 tvg-country="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Coat_of_Arms_of_Ontario.png" group-title="News",Ontario Parliamentary Network
+https://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8
+#EXTINF:0 tvg-country="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/The_Shopping_Channel_logo.svg/330px-The_Shopping_Channel_logo.svg.png" group-title="Entertainment",Today's Shopping Choice (TSC)
+https://tscamd.akamaized.net/hls/live/503340/TSCLive/master.m3u8
+#EXTINF:0 tvg-country="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN8_The_Ocho_ESPN_Organization_Logo.svg/330px-ESPN8_The_Ocho_ESPN_Organization_Logo.svg.png" group-title="Sports",ESPN8 - The Ocho
+https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
+#EXTINF:0 tvg-country="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/3ABN_logo.svg/330px-3ABN_logo.svg.png" group-title="Entertainment",3ABN
+https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
+#EXTINF:0 tvg-country="Canada" tvg-logo="https://image.roku.com/channels/images/3b5b39aac49c4d15820de2663570affd-hd.jpg" group-title="Religion",Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
+#EXTINF:0 tvg-country="Canada" tvg-logo="" group-title="Canadian Local",Cable 14 - Hamilton
+https://flowcaster1-ch.cdn.clearcable.net/C14/smil%3AC14.smil/playlist.m3u8
+#EXTINF:0 tvg-country="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Canal_Savoir_logo.png/330px-Canal_Savoir_logo.png" group-title="Canadian Local",Canal Savoir (French)
+https://hls.savoir.media/live/stream.m3u8
+#EXTINF:0 tvg-country="Europe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Euronews_Logo_2025.svg/500px-Euronews_Logo_2025.svg.png" group-title="News",EuroNews
+https://a-cdn.klowdtv.com/live3/euronews_720p/chunks.m3u8
+#EXTINF:0 tvg-country="International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Euronews_Logo_2025.svg/500px-Euronews_Logo_2025.svg.png" group-title="News",Al Jazeera
+https://upload.wikimedia.org/wikipedia/commons/0/03/Al_Jazeera_Media_Network_Logo_design.png
+#EXTINF:0 tvg-country="International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/500px-Russia-today-logo.svg.png" group-title="News",RussianTV (RT)
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:0 tvg-country="International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/CNA_unveils_new_logo_as_it_celebrates_its_20th_anniversary.png/500px-CNA_unveils_new_logo_as_it_celebrates_its_20th_anniversary.png" group-title="News",Channel News Asia (CNA)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:0 tvg-country="International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/500px-LOGO_i24NEWS.png" group-title="News",i24 News Israel
+https://fastly.live.brightcove.com/6386790908112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA5MDgxMTIifQ._w5c3EwfnEecDCEpDaKuVz07uuEyUb3vXvQN3svv-oU/chunklist.m3u8
+#EXTINF:0 tvg-country="Canada" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Global-news-logo.png" group-title="News",Global News Canada
+https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/live-audio_1=96000-video=2499968.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://en.wikipedia.org/wiki/File:Catholic_Faith_Network_2018.png" group-title="Religion",Catholic Faith Network
+https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
+#EXTINF:0 tvg-country="International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/330px-Deutsche_Welle_Logo.svg.png" group-title="News",Deutsche Welle
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/NBC_logo_2011.png/330px-NBC_logo_2011.png" group-title="News",NBC News Now
+https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_caption.m3u8
+#EXTINF:0 tvg-country="International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Africanews._logo_2016.jpg" group-title="News",Africa News
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/253ab630-928a-4ada-b1d2-d0ea0ee43545/5.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
