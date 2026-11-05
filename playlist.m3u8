@@ -25,16 +25,16 @@ https://live-manifest.production-public.tubi.io/live/512cbe42-c22e-40c8-90e3-7d6
 https://live-manifest.production-public.tubi.io/live/a6d1cbf9-8f14-4a1d-ad12-622df6896d2b/playlist.m3u8
 #EXTINF:-1, tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News (USNow)
 #EXTVLCOPT:http-referrer=https://usnewson.com/
-https://p11.usnlive.com/stream/foxnews.m3u8
+https://p0.usnlive.com/stream/foxnews.m3u8
 #EXTINF:-1, tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/MSNBC_logo_%282000-2006%29.png" group-title="News",MSNBC/MSNOW (USNOW)
 #EXTVLCOPT:http-referrer=https://usnewson.com/
-https://p11.usnlive.com/stream/msnbc.m3u8
+https://p6.usnlive.com/stream/msnbc.m3u8
 #EXTINF:-1, tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="News",CNN (USNOW)
 #EXTVLCOPT:http-referrer=https://usnewson.com/
-https://p3.usnlive.com/stream/cnn.m3u8
+https://p9.usnlive.com/stream/cnn.m3u8
 #EXTINF:-1, tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Wikimedia-logo.png/500px-Wikimedia-logo.png" group-title="News",One America News Network | OANN (USNOW)
 #EXTVLCOPT:http-referrer=https://usnewson.com/
-https://p6.usnlive.com/stream/oann.m3u8
+https://p1.usnlive.com/stream/oann.m3u8
 #EXTINF:-1, tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Fox_Weather_logo_%282%29.png" group-title="News",FOX Weather Channel (USNOW)
 #EXTVLCOPT:http-referrer=https://usnewson.com/
 https://247wlive.foxweather.com/stream/index.m3u8
